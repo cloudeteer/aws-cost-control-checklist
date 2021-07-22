@@ -89,15 +89,15 @@ Here are some of the tools and tricks at your disposal for controlling your AWS 
 
 # Use the various tools at your disposal
 
-[ ] Komiser (Free/Open Source)
+[ ] [Komiser](https://github.com/mlabouardy/komiser) (Free/Open Source)
 
-[ ] KubeCost (Free/Open Source) – Tool to gain visibility into operating costs inside of your Kubernetes clusters
+[ ] [KubeCost](https://www.kubecost.com/) (Free/Open Source) – Tool to gain visibility into operating costs inside of your Kubernetes clusters
 
-[ ] Goldilocks (Free/Open Source) – Tool to help “Right Size” your Kubernetes Pods
+[ ] [Goldilocks](https://github.com/FairwindsOps/goldilocks) (Free/Open Source) – Tool to help “Right Size” your Kubernetes Pods
 
-[ ] SpotInst.com (SaaS)
+[ ] [SpotInst.com](https://spot.io/) (SaaS)
 
-[ ] CloudChecker (SaaS)
+[ ] [CloudChecker](https://cloudcheckr.com/) (SaaS)
 
 
 Source: https://cloudposse.com/checklist/
