@@ -100,4 +100,7 @@ Here are some of the tools and tricks at your disposal for controlling your AWS 
 [ ] [CloudChecker](https://cloudcheckr.com/) (SaaS)
 
 
-Source: https://cloudposse.com/checklist/
+Sources: 
+
+- https://cloudposse.com/checklist/
+- https://www.lastweekinaws.com/newsletter/
